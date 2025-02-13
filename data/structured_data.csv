@@ -1,0 +1,27 @@
+Age,Recommended Treatment/Procedure,Medical Specialty,ICD Code
+23,Zyrtec,Allergy / Immunology,"1. J30.1 - Allergic rhinitis due to pollen
+2. J30.2 - Other seasonal allergic rhinitis
+3. J30.3 - Perennial allergic rhinitis
+4. J30.4 - Other allergic rhinitis
+5. J30.5 - Allergic rhinitis, unspecified"
+41,Operative fixation,Orthopedic,"1. ICD-10-PCS code: 0SG00ZZ - Insertion of internal fixation device into bone, tibia
+2. ICD-10-PCS code: 0SG10ZZ - Insertion of internal fixation device into bone, fibula
+3. ICD-10-PCS code: 0SG20ZZ - Insertion of internal fixation device into bone, femur
+4. ICD-10-PCS code: 0SG30ZZ - Insertion of internal fixation device into bone, humerus
+5. ICD-10-PCS code: 0SG40ZZ - Insertion of internal fixation device into bone, radius"
+30,Laparoscopic antecolic antegastric Roux-en-Y gastric bypass with EEA anastomosis,Bariatrics,"ICD-10 Procedure Code: 0DBJ8ZZ
+Definition: Bypass Stomach to Jejunum with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic
+
+ICD-10 Procedure Code: 0DJA8ZZ
+Definition: Resection of Stomach, Via Natural or Artificial Opening Endoscopic
+
+ICD-10 Procedure Code: 0DJB8ZZ
+Definition: Resection of Jejunum, Via Natural or Artificial Opening Endoscopic"
+50,"Neck exploration; tracheostomy; urgent flexible bronchoscopy via tracheostomy site; removal of foreign body, tracheal metallic stent material; dilation distal trachea; placement of #8 Shiley single cannula tracheostomy tube",Cardiovascular / Pulmonary,"1. Neck exploration - ICD-10-PCS code: 0JH60ZZ - Exploration of Neck, Open Approach
+2. Tracheostomy - ICD-10-PCS code: 0B110ZZ - Creation of Tracheostomy, Open Approach
+3. Urgent flexible bronchoscopy via tracheostomy site - ICD-10-PCS code: 0B1B0ZX - Inspection of Trachea using Flexible Endoscope, Via Natural or Artificial Opening
+4. Removal of foreign body, tracheal metallic stent material - ICD-10-PCS code: 0B5F3ZZ - Removal of Intraluminal Device from Trachea, Via Natural or Artificial Opening
+5. Dilation distal trachea - ICD-10-PCS code: 0B5G3ZZ - Dilation of Trachea, Via Natural or Artificial Opening
+6. Placement of #8 Shiley single cannula tracheostomy tube - ICD-10-PCS code: 0B110ZZ - Replacement of Tracheostomy Device, Open Approach"
+66,Flomax and Proscar,Urology,"1. Flomax - ICD-10 code: Z79.891 - Long term (current) use of opiate analgesic
+2. Proscar - ICD-10 code: Z79.891 - Long term (current) use of opiate analgesic"
